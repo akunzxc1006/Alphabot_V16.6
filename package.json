@@ -1,9 +1,9 @@
 {
-  "name": "AMd",
+  "name": "Alphabot-Md",
   "version": "17.0.6",
-  "description": "Mx",
+  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "start": "node zeeone.js"
    },
@@ -14,8 +14,8 @@
     "base",
     "baileys-md"
   ],
-  "author": "Md",
-  "license": "ISC",
+  "author": "ZeeoneOfc",
+  "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys@^5.0.5",
     "@adiwajshing/keyed-db": "^0.2.4",
